@@ -13,6 +13,8 @@ git commit版本为`ed4f5d0000e17b6ae88c4e93e2f9e0695dbceac0`.
 
 ## 运行方式
 
+[Rom下载链接](https://box.nju.edu.cn/f/3e56938d9d8140a7bb75/?dl=1)
+
 将游戏ROM放置在`nes/rom/`目录下, 并命名为`xxx.nes`, 如`nes/rom/mario.nes`.
 然后可通过`mainargs`选择运行的游戏, 如:
 ```
